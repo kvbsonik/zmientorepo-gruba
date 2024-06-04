@@ -1,0 +1,55 @@
+﻿<Window x:Class="Zadanie_Egzaminacyjne.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_Egzaminacyjne"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#5F9EA0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="50" Grid.Column="0">
+            <DockPanel Margin="0,0,0,10">
+                <TextBlock Width="60">Numer</TextBlock>
+                <TextBox TextChanged="numer_TextChanged" x:Name="numer" Background="#F0FFFF"></TextBox>
+            </DockPanel>
+
+            <DockPanel Margin="0,0,0,10">
+                <TextBlock Width="60">Imię</TextBlock>
+                <TextBox x:Name="imie"  Background="#F0FFFF"></TextBox>
+            </DockPanel>
+
+            <DockPanel Margin="0,0,0,10">
+                <TextBlock Width="60">Nazwisko</TextBlock>
+                <TextBox x:Name="nazwisko"  Background="#F0FFFF"></TextBox>
+            </DockPanel>
+
+        </StackPanel>
+        <GroupBox Margin="50" Grid.Row="1" Grid.Column="0" Header="Kolor oczu">
+                <StackPanel>
+                    <RadioButton IsChecked="True" x:Name="niebieskie">niebieskie</RadioButton>
+                    <RadioButton x:Name="zielone">zielone</RadioButton>
+                    <RadioButton x:Name="piwne">piwne</RadioButton>
+                </StackPanel>
+            </GroupBox>
+        <DockPanel Grid.Column="1" Grid.Row="0">
+            <Image x:Name="zdjecie" Height="180" Source="000-zdjecie.jpg">
+                
+            </Image>
+            <Image x:Name="odcisk" Source="000-odcisk.jpg" Height="180">
+                
+            </Image>
+        </DockPanel>
+         <StackPanel Grid.Column="1" Grid.Row="1" VerticalAlignment="Bottom">
+            <Button Height="40" Margin="20" Background="#F0FFFF" Click="Button_Click">OK</Button>
+        </StackPanel>
+    </Grid>
+</Window>

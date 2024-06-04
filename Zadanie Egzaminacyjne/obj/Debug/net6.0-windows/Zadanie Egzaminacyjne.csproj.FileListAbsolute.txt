@@ -1,0 +1,27 @@
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\Zadanie Egzaminacyjne.exe
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\Zadanie Egzaminacyjne.deps.json
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\Zadanie Egzaminacyjne.runtimeconfig.json
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\Zadanie Egzaminacyjne.dll
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\Zadanie Egzaminacyjne.pdb
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne_MarkupCompile.cache
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne_MarkupCompile.lref
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.g.resources
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.AssemblyInfo.cs
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.dll
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\refint\Zadanie Egzaminacyjne.dll
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.pdb
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne.genruntimeconfig.cache
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\ref\Zadanie Egzaminacyjne.dll
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\000-odcisk.jpg
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\000-zdjecie.jpg
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\111-odcisk.jpg
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\111-zdjecie.jpg
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\333-odcisk.jpg
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\bin\Debug\net6.0-windows\333-zdjecie.jpg
+C:\Users\PC\source\repos\Zadanie Egzaminacyjne\Zadanie Egzaminacyjne\obj\Debug\net6.0-windows\Zadanie Egzaminacyjne_Content.g.cs
